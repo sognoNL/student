@@ -119,7 +119,7 @@ function selectItem(subject, item) {
 
 // ✅ hover 展开（仅有 children 才触发）
 function openSubject(subject) {
-  const target = subjects.find(s => s.name === subject)
+  const target = subjects.value.find(s => s.name === subject)
   if (target.children && target.children.length > 0) {
     visibleSubjectName.value = subject
   }
@@ -127,7 +127,7 @@ function openSubject(subject) {
 
 // ✅ 一级点击（核心优化）
 function selectTopLevelItem(subjectName) {
-  const subject = subjects.find(s => s.name === subjectName)
+  const subject = subjects.value.find(s => s.name === subjectName)
 
   if (!subject.children || subject.children.length === 0) {
     // ✅ 无子菜单 → 直接选中
