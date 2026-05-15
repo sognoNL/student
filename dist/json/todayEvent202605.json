@@ -1,0 +1,138 @@
+{
+"2026-05-13": {
+    "homework": [
+      {
+        "type": "text",
+        "content": [
+            
+          { "text": "数学：", "bold": true, "color": "#0d6efd" },
+          { "text": "\n1. 学习单底下有三道竖式，需要巩固的同学可以写一写\n2. 订正作业本p47" }
+        ]
+      },
+      {
+        "type": "text",
+        "content": [
+          { "text": "语文：", "bold": true, "color": "#198754" },
+          { "text": "\n5.11日学习任务🌸🌸 \n1.预习22课\n2. 自主：明天课堂上准备第七单元注音练习\n" },
+          { "text": "📚每天阅读20分钟。\n📖本周课背诵180-184\n🏃跳绳、坐位体前屈、仰卧起坐，锻炼身体。\n" },
+          { "text": "其他:\n第七单元看拼音写词语反馈，如下图，错误在三个以上的建议再次巩固本单元字词。" , "bold": true, "color": "#dc3545"}
+
+        ]
+      },
+      {
+        "type": "image",
+        "src": "/images/202605/513.jpg",
+        "alt": "数学练习示例"
+      }
+    ],
+    "joy": [
+      {
+        "type": "text",
+        "content": [
+          { "text": "今天在学校", "bold": true, "color": "#dc3545" },
+          { "text": "帮助了同学，老师表扬了我！" }
+        ]
+      }
+    ]
+  },
+"2026-05-11": {
+    "homework": [
+      {
+        "type": "text",
+        "content": [
+            
+          { "text": "数学：", "bold": true, "color": "#0d6efd" },
+          { "text": "1.自主\n2.读口\n今天还有2.11.22.31这几位同学作业还有部分没过关，麻烦家长们提醒一下（作业本p46，数学书p66-68）" }
+        ]
+      },
+      {
+        "type": "text",
+        "content": [
+          { "text": "语文：", "bold": true, "color": "#198754" },
+          { "text": "5.11日学习任务🌸🌸 1. 复习21，预习园地七（准备听写21和园地七）\n2.自主📚每天阅读20分钟。📖本周课背诵180-184\n🏃跳绳、坐位体前屈、仰卧起坐，锻炼身体。\n其他:\n第21课听写反馈：\n表扬" },
+          { "text": "2、3、9、10、12、13、15、18、19、21、23、25、26、27、28、29、30、32、34、37、38、39、41、42听写全对！👏👏👏" , "bold": true, "color": "#198754"}
+
+        ]
+      },
+      {
+        "type": "image",
+        "src": "/images/202605/511.jpg",
+        "alt": "数学练习示例"
+      }
+    ],
+    "joy": [
+      {
+        "type": "text",
+        "content": [
+          { "text": "今天在学校", "bold": true, "color": "#dc3545" },
+          { "text": "帮助了同学，老师表扬了我！" }
+        ]
+      }
+    ]
+  },
+  "2026-05-01": {
+    "homework": [
+      {
+        "type": "text",
+        "content": [
+          { "text": "语文：", "bold": true },
+          { "text": "阅读课文 " },
+          { "text": "10 分钟", "bold": true }
+        ]
+      },
+      {
+        "type": "text",
+        "content": [
+          { "text": "数学：完成", "bold": true },
+          { "text": "口算练习一页" }
+        ]
+      },
+      {
+        "type": "image",
+        "src": "/images/study1.jpg",
+        "alt": "数学练习示例"
+      }
+    ],
+    "joy": [
+      {
+        "type": "text",
+        "content": [
+          { "text": "今日份快乐：", "bold": true },
+          { "text": "认真完成一件小事，也很棒。" }
+        ]
+      },
+      {
+        "type": "image",
+        "src": "/images/study2.jpg",
+        "alt": "快乐学习瞬间"
+      }
+    ]
+  },
+  "2026-05-12": {
+    "homework": [
+      {
+        "type": "text",
+        "content": [
+          { "text": "语文：", "bold": true, "color": "#0d6efd" },
+          { "text": "背诵古诗《春晓》" }
+        ]
+      },
+      {
+        "type": "text",
+        "content": [
+          { "text": "英语：", "bold": true, "color": "#198754" },
+          { "text": "听读单词 15 分钟" }
+        ]
+      }
+    ],
+    "joy": [
+      {
+        "type": "text",
+        "content": [
+          { "text": "今天在学校", "bold": true, "color": "#dc3545" },
+          { "text": "帮助了同学，老师表扬了我！" }
+        ]
+      }
+    ]
+  }
+}
